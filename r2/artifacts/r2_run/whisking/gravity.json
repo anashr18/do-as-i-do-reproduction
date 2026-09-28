@@ -1,0 +1,979 @@
+{
+  "roll_deg": 0.9292218368142587,
+  "pitch_deg": -5.863030541557538,
+  "vec3d": [
+    -0.016134057193994522,
+    -0.9946380853652954,
+    -0.10215069353580475
+  ],
+  "n_frames": 138,
+  "n_inliers": 128,
+  "per_frame": [
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000000.png",
+      "roll_deg": 0.8709657660010449,
+      "pitch_deg": -5.915833026483614,
+      "confidence": 0.031689597526565194,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000001.png",
+      "roll_deg": 0.9112095607558773,
+      "pitch_deg": -5.944992384710867,
+      "confidence": 0.03183742891997099,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000002.png",
+      "roll_deg": 0.900850618384201,
+      "pitch_deg": -5.911579099291165,
+      "confidence": 0.031724862987175584,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000003.png",
+      "roll_deg": 0.891087236491638,
+      "pitch_deg": -5.929816985035568,
+      "confidence": 0.031714869663119316,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000004.png",
+      "roll_deg": 0.9250833825074658,
+      "pitch_deg": -5.8749940447756375,
+      "confidence": 0.03259145864285529,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000005.png",
+      "roll_deg": 0.9359253473195089,
+      "pitch_deg": -5.980944366067699,
+      "confidence": 0.03255723020993173,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000006.png",
+      "roll_deg": 0.8997146725478632,
+      "pitch_deg": -5.953274842853154,
+      "confidence": 0.031826718943193555,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000007.png",
+      "roll_deg": 0.8872372509555722,
+      "pitch_deg": -5.995420952013541,
+      "confidence": 0.032624087762087584,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000008.png",
+      "roll_deg": 0.9112851197235706,
+      "pitch_deg": -6.006628865554709,
+      "confidence": 0.03289376408793032,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000009.png",
+      "roll_deg": 0.9163565351823051,
+      "pitch_deg": -6.003881848847894,
+      "confidence": 0.03299648244865239,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000010.png",
+      "roll_deg": 0.9206549653260645,
+      "pitch_deg": -6.041944785545082,
+      "confidence": 0.032966884318739176,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000011.png",
+      "roll_deg": 0.9199139965228239,
+      "pitch_deg": -5.988787984555812,
+      "confidence": 0.03284981264732778,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000012.png",
+      "roll_deg": 0.9212774730358877,
+      "pitch_deg": -5.971981450329349,
+      "confidence": 0.03279071021825075,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000013.png",
+      "roll_deg": 0.9264584916864598,
+      "pitch_deg": -5.976445405838776,
+      "confidence": 0.032922145910561085,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000014.png",
+      "roll_deg": 0.9173580116693582,
+      "pitch_deg": -6.009774594554322,
+      "confidence": 0.03310206322930753,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000015.png",
+      "roll_deg": 0.9760847252050683,
+      "pitch_deg": -6.060084487320167,
+      "confidence": 0.03331212932243943,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000016.png",
+      "roll_deg": 0.9640489713921538,
+      "pitch_deg": -6.0287501407290875,
+      "confidence": 0.03296903055161238,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000017.png",
+      "roll_deg": 0.9370675897364878,
+      "pitch_deg": -5.918198833257376,
+      "confidence": 0.032966253347694874,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000018.png",
+      "roll_deg": 0.9355271686352383,
+      "pitch_deg": -5.989603765274805,
+      "confidence": 0.03301705326884985,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000019.png",
+      "roll_deg": 0.9255923383223374,
+      "pitch_deg": -5.844996707714588,
+      "confidence": 0.03264164854772389,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000020.png",
+      "roll_deg": 0.9009687593125011,
+      "pitch_deg": -5.924502244087652,
+      "confidence": 0.032742018112912774,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000021.png",
+      "roll_deg": 0.9401408546978762,
+      "pitch_deg": -5.867366431020026,
+      "confidence": 0.03275439003482461,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000022.png",
+      "roll_deg": 0.9673823171505316,
+      "pitch_deg": -5.898443364856761,
+      "confidence": 0.03293081512674689,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000023.png",
+      "roll_deg": 0.9841135058527125,
+      "pitch_deg": -5.940344440980674,
+      "confidence": 0.03303697961382568,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000024.png",
+      "roll_deg": 0.975475450986762,
+      "pitch_deg": -5.926679366885594,
+      "confidence": 0.03304969961754978,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000025.png",
+      "roll_deg": 0.987042696511296,
+      "pitch_deg": -5.973437988169855,
+      "confidence": 0.03320621117018163,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000026.png",
+      "roll_deg": 1.0084322876708371,
+      "pitch_deg": -5.903964292140246,
+      "confidence": 0.03368500154465437,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000027.png",
+      "roll_deg": 0.9842634498493354,
+      "pitch_deg": -5.8626523198322475,
+      "confidence": 0.033183231484144926,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000028.png",
+      "roll_deg": 0.9419043241642089,
+      "pitch_deg": -5.959936411728032,
+      "confidence": 0.03322041477076709,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000029.png",
+      "roll_deg": 0.9154474796924587,
+      "pitch_deg": -5.889938925566449,
+      "confidence": 0.0331759883556515,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000030.png",
+      "roll_deg": 0.9164675257563177,
+      "pitch_deg": -5.909971870402096,
+      "confidence": 0.03295017615891993,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000031.png",
+      "roll_deg": 0.9567298900879563,
+      "pitch_deg": -5.847207127684733,
+      "confidence": 0.03303232090547681,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000032.png",
+      "roll_deg": 0.9558434595997355,
+      "pitch_deg": -5.8246875671043785,
+      "confidence": 0.03308107005432248,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000033.png",
+      "roll_deg": 0.9475729542884963,
+      "pitch_deg": -5.754731915851461,
+      "confidence": 0.03274646867066622,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000034.png",
+      "roll_deg": 0.9633999966992968,
+      "pitch_deg": -5.802678990051304,
+      "confidence": 0.03270796383731067,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000035.png",
+      "roll_deg": 0.993563606177954,
+      "pitch_deg": -5.879770054552769,
+      "confidence": 0.03292014612816274,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000036.png",
+      "roll_deg": 0.9856362111508022,
+      "pitch_deg": -5.815453151346521,
+      "confidence": 0.03287833766080439,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000037.png",
+      "roll_deg": 0.9211828108828596,
+      "pitch_deg": -5.808780910301064,
+      "confidence": 0.03299997956492007,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000038.png",
+      "roll_deg": 0.95959152590678,
+      "pitch_deg": -5.73768248302264,
+      "confidence": 0.033179742749780416,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000039.png",
+      "roll_deg": 0.9504869904648588,
+      "pitch_deg": -5.910792346876144,
+      "confidence": 0.03337442688643932,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000040.png",
+      "roll_deg": 0.9532013503297042,
+      "pitch_deg": -5.830544027430841,
+      "confidence": 0.03311878745444119,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000041.png",
+      "roll_deg": 0.9050153262306162,
+      "pitch_deg": -5.839478768638864,
+      "confidence": 0.03301075892522931,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000042.png",
+      "roll_deg": 0.9288295278238061,
+      "pitch_deg": -5.9215665434050155,
+      "confidence": 0.032886111875995994,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000043.png",
+      "roll_deg": 0.977452150421246,
+      "pitch_deg": -5.870967221373092,
+      "confidence": 0.03259707475081086,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000044.png",
+      "roll_deg": 0.9368717554063788,
+      "pitch_deg": -5.906836386686237,
+      "confidence": 0.032932777889072895,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000045.png",
+      "roll_deg": 0.9420612050717077,
+      "pitch_deg": -5.8303933363822775,
+      "confidence": 0.03285438334569335,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000046.png",
+      "roll_deg": 0.965580748035235,
+      "pitch_deg": -5.813208580430525,
+      "confidence": 0.032691605389118195,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000047.png",
+      "roll_deg": 0.9329035222203073,
+      "pitch_deg": -5.832586253992675,
+      "confidence": 0.032897015335038304,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000048.png",
+      "roll_deg": 0.964052279765033,
+      "pitch_deg": -5.821354007902589,
+      "confidence": 0.03271517250686884,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000049.png",
+      "roll_deg": 0.951301917410206,
+      "pitch_deg": -5.814052535679846,
+      "confidence": 0.03276231023482978,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000050.png",
+      "roll_deg": 0.9457400089917,
+      "pitch_deg": -5.847432950814167,
+      "confidence": 0.03265470080077648,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000051.png",
+      "roll_deg": 0.934099979263823,
+      "pitch_deg": -5.83709375195806,
+      "confidence": 0.03280344232916832,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000052.png",
+      "roll_deg": 0.9459230367171151,
+      "pitch_deg": -5.914905828303784,
+      "confidence": 0.03258572774939239,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000053.png",
+      "roll_deg": 0.9105815035173536,
+      "pitch_deg": -5.835776379221894,
+      "confidence": 0.03330024960450828,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000054.png",
+      "roll_deg": 0.8774649044397236,
+      "pitch_deg": -5.975814040227373,
+      "confidence": 0.03365041618235409,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000055.png",
+      "roll_deg": 0.8833348650619677,
+      "pitch_deg": -5.955033616564432,
+      "confidence": 0.033487362787127495,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000056.png",
+      "roll_deg": 0.9025081131966927,
+      "pitch_deg": -5.8389139973718684,
+      "confidence": 0.033180331345647573,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000057.png",
+      "roll_deg": 0.8615889834876752,
+      "pitch_deg": -5.89027915436448,
+      "confidence": 0.03293798537924886,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000058.png",
+      "roll_deg": 0.9168332610420308,
+      "pitch_deg": -5.82693854132272,
+      "confidence": 0.03332380065694451,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000059.png",
+      "roll_deg": 0.8891712617077436,
+      "pitch_deg": -5.819132915761865,
+      "confidence": 0.03300765296444297,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000060.png",
+      "roll_deg": 0.8603895382363975,
+      "pitch_deg": -5.878716497873294,
+      "confidence": 0.03308556601405144,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000061.png",
+      "roll_deg": 0.8488050037955269,
+      "pitch_deg": -5.8382813510999965,
+      "confidence": 0.033076371531933546,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000062.png",
+      "roll_deg": 0.8839842666416479,
+      "pitch_deg": -5.83761540765592,
+      "confidence": 0.03304438083432615,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000063.png",
+      "roll_deg": 0.8565977160299826,
+      "pitch_deg": -5.8662339002782735,
+      "confidence": 0.03327028499916196,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000064.png",
+      "roll_deg": 0.8967271051162173,
+      "pitch_deg": -5.857122001038653,
+      "confidence": 0.03350861161015928,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000065.png",
+      "roll_deg": 0.9356572623945859,
+      "pitch_deg": -5.7944460507805005,
+      "confidence": 0.0334388455376029,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000066.png",
+      "roll_deg": 0.922586521479003,
+      "pitch_deg": -5.875029049495134,
+      "confidence": 0.03397381445392966,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000067.png",
+      "roll_deg": 0.9371922406888405,
+      "pitch_deg": -5.905892113033483,
+      "confidence": 0.03402235941030085,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000068.png",
+      "roll_deg": 0.9491758075876279,
+      "pitch_deg": -5.872179153063946,
+      "confidence": 0.033943792106583714,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000069.png",
+      "roll_deg": 0.9502799503556428,
+      "pitch_deg": -5.885307630422357,
+      "confidence": 0.033775465330109,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000070.png",
+      "roll_deg": 0.9155609248657044,
+      "pitch_deg": -5.8722064738206265,
+      "confidence": 0.03367723780684173,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000071.png",
+      "roll_deg": 0.9405304956456843,
+      "pitch_deg": -5.82227736410101,
+      "confidence": 0.0334835909307003,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000072.png",
+      "roll_deg": 0.9263722605481883,
+      "pitch_deg": -5.804036490148845,
+      "confidence": 0.03343371790833771,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000073.png",
+      "roll_deg": 0.88952653826629,
+      "pitch_deg": -5.8297414802033645,
+      "confidence": 0.03328211419284344,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000074.png",
+      "roll_deg": 0.9232166064299366,
+      "pitch_deg": -5.851285604392877,
+      "confidence": 0.03330681356601417,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000075.png",
+      "roll_deg": 0.8798831115710254,
+      "pitch_deg": -5.879636438977131,
+      "confidence": 0.03334901900961995,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000076.png",
+      "roll_deg": 0.9182931072554152,
+      "pitch_deg": -5.898958617252274,
+      "confidence": 0.0337948405649513,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000077.png",
+      "roll_deg": 0.9145784448422803,
+      "pitch_deg": -5.887401937176612,
+      "confidence": 0.03379475767724216,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000078.png",
+      "roll_deg": 0.9658598252958535,
+      "pitch_deg": -5.8861174347258265,
+      "confidence": 0.033459963742643595,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000079.png",
+      "roll_deg": 0.9702976339873635,
+      "pitch_deg": -5.8115808609739465,
+      "confidence": 0.03354158182628453,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000080.png",
+      "roll_deg": 0.9797788970506932,
+      "pitch_deg": -5.830970060480321,
+      "confidence": 0.03319811378605664,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000081.png",
+      "roll_deg": 0.922870721381499,
+      "pitch_deg": -5.855912203781915,
+      "confidence": 0.03328887862153351,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000082.png",
+      "roll_deg": 0.9642819448758747,
+      "pitch_deg": -5.8379658817377065,
+      "confidence": 0.032992061926051974,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000083.png",
+      "roll_deg": 0.9655924874228708,
+      "pitch_deg": -5.847941799907333,
+      "confidence": 0.0329501093365252,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000084.png",
+      "roll_deg": 0.9380386505373932,
+      "pitch_deg": -5.841968372591333,
+      "confidence": 0.03325934731401503,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000085.png",
+      "roll_deg": 0.9179871361249399,
+      "pitch_deg": -5.913350679607137,
+      "confidence": 0.03313935175538063,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000086.png",
+      "roll_deg": 0.9449291374711725,
+      "pitch_deg": -5.91422921268913,
+      "confidence": 0.033466187538579106,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000087.png",
+      "roll_deg": 0.8917261259832986,
+      "pitch_deg": -5.942342271312902,
+      "confidence": 0.033817281015217304,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000088.png",
+      "roll_deg": 0.9522900536840364,
+      "pitch_deg": -5.969371037405935,
+      "confidence": 0.03392706112936139,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000089.png",
+      "roll_deg": 0.9257085582599335,
+      "pitch_deg": -6.007734929313427,
+      "confidence": 0.03401081636548042,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000090.png",
+      "roll_deg": 0.9312818859009581,
+      "pitch_deg": -5.989384345447719,
+      "confidence": 0.03403613087721169,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000091.png",
+      "roll_deg": 0.9208702230066257,
+      "pitch_deg": -5.895827402404646,
+      "confidence": 0.03392725856974721,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000092.png",
+      "roll_deg": 0.8786488216828101,
+      "pitch_deg": -5.870305119910424,
+      "confidence": 0.03403216041624546,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000093.png",
+      "roll_deg": 0.9348910005470752,
+      "pitch_deg": -5.894426359851147,
+      "confidence": 0.033944357419386506,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000094.png",
+      "roll_deg": 0.9256417504721143,
+      "pitch_deg": -5.903936117609921,
+      "confidence": 0.03372258390299976,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000095.png",
+      "roll_deg": 0.9325216719570212,
+      "pitch_deg": -5.927077225404747,
+      "confidence": 0.03406093386001885,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000096.png",
+      "roll_deg": 0.9623722666726214,
+      "pitch_deg": -5.8744309810559345,
+      "confidence": 0.034077508142217994,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000097.png",
+      "roll_deg": 0.9294523556987467,
+      "pitch_deg": -5.784195217496781,
+      "confidence": 0.033470890717580914,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000098.png",
+      "roll_deg": 0.9171811738028783,
+      "pitch_deg": -5.706789537406673,
+      "confidence": 0.0333707220852375,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000099.png",
+      "roll_deg": 0.9161782032119443,
+      "pitch_deg": -5.786591760121809,
+      "confidence": 0.03334484621882439,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000100.png",
+      "roll_deg": 0.9028662712412953,
+      "pitch_deg": -5.735077619627926,
+      "confidence": 0.03318325523287058,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000101.png",
+      "roll_deg": 0.8769938348304043,
+      "pitch_deg": -5.860664734783774,
+      "confidence": 0.03303529601544142,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000102.png",
+      "roll_deg": 0.9347517287210304,
+      "pitch_deg": -5.85544732403153,
+      "confidence": 0.032774458872154355,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000103.png",
+      "roll_deg": 0.9239809472867434,
+      "pitch_deg": -5.741203018652959,
+      "confidence": 0.03296379465609789,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000104.png",
+      "roll_deg": 0.9468453256984785,
+      "pitch_deg": -5.779685158210457,
+      "confidence": 0.03287013596855104,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000105.png",
+      "roll_deg": 0.8831224888674627,
+      "pitch_deg": -5.810572127410901,
+      "confidence": 0.03251578356139362,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000106.png",
+      "roll_deg": 0.9590704038174492,
+      "pitch_deg": -5.775037641367086,
+      "confidence": 0.03207613807171583,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000107.png",
+      "roll_deg": 0.9618210490622603,
+      "pitch_deg": -5.8198539276061245,
+      "confidence": 0.03196489647962153,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000108.png",
+      "roll_deg": 0.9551191393825968,
+      "pitch_deg": -5.702677763526324,
+      "confidence": 0.03213804285041988,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000109.png",
+      "roll_deg": 0.9166011413319561,
+      "pitch_deg": -5.661734194546684,
+      "confidence": 0.03179241344332695,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000110.png",
+      "roll_deg": 0.9415128689474025,
+      "pitch_deg": -5.690617783886198,
+      "confidence": 0.031872794730588794,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000111.png",
+      "roll_deg": 0.8990374166029742,
+      "pitch_deg": -5.6750709926747795,
+      "confidence": 0.03173853084445,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000112.png",
+      "roll_deg": 0.9626925385116716,
+      "pitch_deg": -5.657801713132049,
+      "confidence": 0.03138206386938691,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000113.png",
+      "roll_deg": 0.9482156324007122,
+      "pitch_deg": -5.655567387499808,
+      "confidence": 0.03088284912519157,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000114.png",
+      "roll_deg": 0.9404669962307443,
+      "pitch_deg": -5.730889006119416,
+      "confidence": 0.030613836832344532,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000115.png",
+      "roll_deg": 0.9702008374002197,
+      "pitch_deg": -5.646229665130755,
+      "confidence": 0.029815974878147244,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000116.png",
+      "roll_deg": 0.9855220189256161,
+      "pitch_deg": -5.609986973847374,
+      "confidence": 0.029797897208482027,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000117.png",
+      "roll_deg": 0.9604547977848461,
+      "pitch_deg": -5.585456349443273,
+      "confidence": 0.029510572087019682,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000118.png",
+      "roll_deg": 1.037640417717633,
+      "pitch_deg": -5.672915641104817,
+      "confidence": 0.029624369461089373,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000119.png",
+      "roll_deg": 0.9722084861293803,
+      "pitch_deg": -5.715576148887071,
+      "confidence": 0.0295196867082268,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000120.png",
+      "roll_deg": 1.0019570548942536,
+      "pitch_deg": -5.611611705096191,
+      "confidence": 0.029355624690651894,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000121.png",
+      "roll_deg": 0.9667711219415213,
+      "pitch_deg": -5.625701104693458,
+      "confidence": 0.029373368714004755,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000122.png",
+      "roll_deg": 0.9568597704038923,
+      "pitch_deg": -5.695519298389328,
+      "confidence": 0.029498907970264554,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000123.png",
+      "roll_deg": 0.9444393915633414,
+      "pitch_deg": -5.695325064884806,
+      "confidence": 0.029677525628358126,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000124.png",
+      "roll_deg": 0.9504787728935137,
+      "pitch_deg": -5.649415094604919,
+      "confidence": 0.029713680036365986,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000125.png",
+      "roll_deg": 0.9485341966924699,
+      "pitch_deg": -5.64855619831679,
+      "confidence": 0.029795731883496046,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000126.png",
+      "roll_deg": 0.9670710099347671,
+      "pitch_deg": -5.753536632746709,
+      "confidence": 0.02958472236059606,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000127.png",
+      "roll_deg": 0.9517010565898285,
+      "pitch_deg": -5.61392500479071,
+      "confidence": 0.02950088237412274,
+      "outlier": true
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000128.png",
+      "roll_deg": 0.932868944387634,
+      "pitch_deg": -5.733657367167387,
+      "confidence": 0.02988492278382182,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000129.png",
+      "roll_deg": 0.9239958883255528,
+      "pitch_deg": -5.808491481034985,
+      "confidence": 0.02978120814077556,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000130.png",
+      "roll_deg": 0.9095772522659501,
+      "pitch_deg": -5.850166307142642,
+      "confidence": 0.0298995990306139,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000131.png",
+      "roll_deg": 0.9255023719243637,
+      "pitch_deg": -5.783715396707588,
+      "confidence": 0.03003655793145299,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000132.png",
+      "roll_deg": 0.9350072204846711,
+      "pitch_deg": -5.867660982927982,
+      "confidence": 0.030214525992050767,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000133.png",
+      "roll_deg": 0.9209373509595622,
+      "pitch_deg": -5.840732962125208,
+      "confidence": 0.030806252267211676,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000134.png",
+      "roll_deg": 0.8646767092401969,
+      "pitch_deg": -5.912491356432184,
+      "confidence": 0.03115046489983797,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000135.png",
+      "roll_deg": 0.9057095509267246,
+      "pitch_deg": -5.902081294363439,
+      "confidence": 0.03120485320687294,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000136.png",
+      "roll_deg": 0.8927740264123667,
+      "pitch_deg": -5.967284414614496,
+      "confidence": 0.031129112700000405,
+      "outlier": false
+    },
+    {
+      "path": "/root/rig_work/r2_run/whisking/all_frames/000137.png",
+      "roll_deg": 0.9028542116885419,
+      "pitch_deg": -5.951277012520925,
+      "confidence": 0.03131413087248802,
+      "outlier": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "task": "whisking",
+  "dataset_name": "do_as_i_do",
+  "robot_type": "mano",
+  "embodiment_type": "right",
+  "data_id": 300,
+  "right_object_mesh_dir": "assets/objects/whisking",
+  "left_object_mesh_dir": null,
+  "right_object_convex_dir": "assets/objects/whisking/convex"
+}

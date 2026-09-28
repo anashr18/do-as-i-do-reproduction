@@ -1,0 +1,101 @@
+recon exit 0, env exit 0, 16:26:44
+{
+ "frames": {
+  "ours": 138,
+  "shipped": 138,
+  "common": 138
+ },
+ "mesh": {
+  "vertices": {
+   "ours": 5502,
+   "shipped": 5068
+  },
+  "extent_cm": {
+   "ours": [
+    6.22,
+    17.88,
+    5.69
+   ],
+   "shipped": [
+    6.09,
+    18.05,
+    5.94
+   ]
+  },
+  "mesh_scale": {
+   "ours": 0.1787111417548257,
+   "shipped": 0.18086324855404615
+  },
+  "mesh_scale_original": {
+   "ours": 0.16172462701797485,
+   "shipped": 0.16368360817432404
+  },
+  "chamfer_at_ref_frame_cm": 0.4090029465912028
+ },
+ "ref_k": {
+  "ours": 1.1050335687895132,
+  "shipped": 1.1049563885555704
+ },
+ "k": {
+  "ours": {
+   "mean": 1.0832285805061723,
+   "cv_pct": 2.5811966664615396
+  },
+  "shipped": {
+   "mean": 1.0831574723606827,
+   "cv_pct": 2.5765510065703525
+  }
+ },
+ "translation_diff_cm": {
+  "norm_median": 0.9523267222750764,
+  "norm_p90": 2.2350351307407545,
+  "norm_max": 4.51174388837801,
+  "depth_z_median_abs": 0.4539007300769504,
+  "lateral_xy_median": 0.7105048738753775,
+  "depth_z_mean_signed": 0.15896996057648183
+ },
+ "rotation_diff_deg": {
+  "median": 19.42524474418698,
+  "p90": 56.09392751075254,
+  "max": 93.62853275456892
+ },
+ "chamfer_per_frame_cm": {
+  "median": 0.57,
+  "p90": 1.21,
+  "max": 3.05
+ },
+ "jitter": {
+  "ours": {
+   "d2_median_cm": 3.0056066524763345,
+   "d2_p90_cm": 6.450226926963425,
+   "depth_share": 0.8800769373251798
+  },
+  "shipped": {
+   "d2_median_cm": 3.3199245776879662,
+   "d2_p90_cm": 7.1739544927986145,
+   "depth_share": 0.8936513800339221
+  }
+ }
+}
+2026-09-26 16:26:51.732 | INFO     | retargeting.pipeline.process_dataset:main:449 - Loaded hand data: 138 frames from /root/rig_work/r2_run/whisking/whisking/all_hand_meshes.npz
+2026-09-26 16:26:51.749 | INFO     | retargeting.pipeline.process_dataset:_log_mask:239 - clean[obj_pos]: 7 frames in 3 runs (max 3, lens [3, 2, 2])
+2026-09-26 16:26:51.749 | INFO     | retargeting.pipeline.process_dataset:_log_mask:239 - clean[obj_rot]: 22 frames in 9 runs (max 4, lens [4, 4, 2, 2, 2, 2, 2, 2, 2])
+2026-09-26 16:26:51.749 | DEBUG    | retargeting.pipeline.process_dataset:_log_mask:235 - clean[right_wrist_pos]: no frames flagged
+2026-09-26 16:26:51.749 | INFO     | retargeting.pipeline.process_dataset:_log_mask:239 - clean[right_wrist_rot]: 8 frames in 4 runs (max 2, lens [2, 2, 2, 2])
+2026-09-26 16:26:51.749 | INFO     | retargeting.pipeline.process_dataset:_log_mask:239 - clean[shared]: 37 frames in 13 runs (max 5, lens [4, 4, 3, 2, 2, 2, 2, 2, 2, 2, 5, 5, 2])
+2026-09-26 16:26:51.761 | INFO     | retargeting.pipeline.process_dataset:main:710 - Object mesh scale: 0.1787111417548257
+2026-09-26 16:26:51.781 | INFO     | retargeting.pipeline.process_dataset:main:833 - Saved scaled mesh → /root/rig_work/do-as-i-do/retargeting/outputs/assets/objects/whisking/visual.obj
+2026-09-26 16:26:51.872 | INFO     | retargeting.pipeline.process_dataset:main:929 - Saved trajectory_keypoints.npz → /root/rig_work/do-as-i-do/retargeting/outputs/mano/right/whisking/300
+2026-09-26 16:26:51.872 | INFO     | retargeting.pipeline.process_dataset:main:949 - Saved task_info.json → /root/rig_work/do-as-i-do/retargeting/outputs/mano/right/whisking/task_info.json
+2026-09-26 16:27:18.919 | INFO     | retargeting.pipeline.generate_scene:main:866 - Saved structural scene to /root/rig_work/do-as-i-do/retargeting/outputs/sharpa/right/whisking/300/scene_ik.xml
+2026-09-26 16:27:19.361 | INFO     | retargeting.pipeline.solve_ik:main:230 - Running IK for 137 frames...
+2026-09-26 16:27:19.574 | INFO     | retargeting.pipeline.solve_ik:main:324 - Saved /root/rig_work/do-as-i-do/retargeting/outputs/sharpa/right/whisking/300/trajectory_kinematic.npz
+2026-09-26 16:27:19.574 | INFO     | retargeting.pipeline.solve_ik:main:328 - Saved /root/rig_work/do-as-i-do/retargeting/outputs/sharpa/right/whisking/300/trajectory_ikrollout.npz
+2026-09-26 16:27:21.109 | INFO     | retargeting.utils.io:load_data:120 - Prepended 600 warmup frames to reference trajectory.
+2026-09-26 16:30:18.445 | INFO     | retargeting.utils.mjwp:setup_env:399 - In-hand gate (right_object): in_hand on 2245/2245 frames (100.0%).
+2026-09-26 16:30:18.455 | INFO     | retargeting.utils.mjwp:setup_env:443 - Perturb gate (body 30): active on 1645/2245 frames (73.3%).
+2026-09-26 16:33:05.910 | INFO     | retargeting.pipeline.optimize_physics:_save_config_yaml:122 - Saved config to /root/rig_work/do-as-i-do/retargeting/outputs/sharpa/right/whisking/300/config.yaml
+2026-09-26 16:40:02.082 | INFO     | retargeting.pipeline.optimize_physics:main:733 - Saved info to /root/rig_work/do-as-i-do/retargeting/outputs/sharpa/right/whisking/300/trajectory_mjwp.npz
+2026-09-26 16:40:02.083 | INFO     | retargeting.pipeline.optimize_physics:main:754 - Final object tracking error: pos=0.0269, quat=0.1731
+retarget_wall_s=798 gpu_peak_mib=6859
+{"scored": "outputs/sharpa/right/whisking/300/trajectory_mjwp.npz", "replans": 16, "mean_opt_iters": 5.5625, "n_frames": 1600, "warmup_steps": 600, "pos_all": 0.02692824381403187, "rot_all": 0.1730741560459137, "pos_post": 0.04261418503814269, "rot_post": 0.2764231562614441, "pos_warm": 0.0007850084405138562, "rot_warm": 0.0008258027955889702, "pos_max_post": 0.12386871938038016, "rot_max_post": 0.7090287804603577, "success_all": true, "success_post": true}

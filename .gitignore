@@ -1,0 +1,13 @@
+# Model outputs and weights: regenerable, and some are licence-restricted (MANO is non-commercial,
+# no redistribution). Raw trajectories live on the GPU boxes / are re-created by the scripts.
+*.npz
+*.npy
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+__pycache__/
+*.pyc
+.DS_Store
